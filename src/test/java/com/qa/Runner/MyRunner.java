@@ -9,6 +9,4 @@ import cucumber.api.junit.Cucumber;
 		"html:target/cucumber-reports" }, monochrome = true)
 public class MyRunner {
 
-	
-
 }
