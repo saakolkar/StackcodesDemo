@@ -1,0 +1,3 @@
+com\qa\Runner\MyRunner.class
+com\qa\Steps\Steps.class
+com\qa\utilities\ConfigReader.class
